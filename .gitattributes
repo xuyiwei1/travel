@@ -2,6 +2,6 @@
 
 *.js linguist-language=java
 
-*.css linguist-language=java
+*.tsql linguist-language=java
 
 *.html linguist-language=java
